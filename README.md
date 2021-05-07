@@ -1,6 +1,9 @@
 # Discord Music Bot
 
 ## Steps:
+
+Fork the [starter template](https://replit.com/@Fogeinator/Discord-Music-Bot-Starter)
+
 Run the following to install the dependencies (note that you need to install ffmpeg-static too)
 
 ```bash
