@@ -255,7 +255,7 @@ This is literally the same code as `skip()`, but we clear the `serverQueue.songs
 
 -------------------------
 
-Now you're done! That's the whole discord music bot source code.
+Now you're done! That's the [whole discord music bot source code](https://github.com/Fogeinator/Discord-Music-Bot-Completed).
 
 
 -------------------------
